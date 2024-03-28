@@ -9,3 +9,9 @@ Authors: Aditya Chatterjee, Ue Kiao
 | <a href="https://www.amazon.com/gp/product/B089G56R5H"><img src="https://github.com/AdiChat/author/assets/10634210/cfa8c43d-dde5-4b92-b3a4-0061000d2af1" alt="Book Cover" style="height: 250px;" /></a> <br/> #5 Mathematical Algorithms | <a href="https://www.amazon.com/gp/product/B0868TND68"><img src="https://github.com/AdiChat/author/assets/10634210/38ae3fc7-6e65-411c-b5b3-feeed4d99ed7" alt="Book Cover" style="height: 250px;" /></a> <br/> #6 General Algorithms | <a href="https://www.amazon.com/gp/product/B09RWBFV4K"><img src="https://github.com/AdiChat/author/assets/10634210/57f30087-9d24-4817-a5f6-04ddcd97d089" alt="Book Cover" style="height: 250px;" /></a> <br/> #7 Computational Geometry | <a href="https://www.amazon.com/gp/product/B09XKV9XF7"><img src="https://github.com/AdiChat/author/assets/10634210/ef1ca2de-2987-484c-b3d0-540e5b528b28" alt="Book Cover" style="height: 250px;" /></a> <br/> #8 Array Problems | 
 | <a href="https://www.amazon.com/gp/product/B09Y4MJX6C"><img src="https://github.com/AdiChat/author/assets/10634210/bcc8723f-0ef2-42d6-a6a0-e7bfbf82540d" alt="Book Cover" style="height: 250px;" /></a> <br/> #9 Stack Problems | <a href="https://www.amazon.com/gp/product/B09YQ33Z27"><img src="https://github.com/AdiChat/author/assets/10634210/f525c7d3-8719-4918-af37-3afe393999c6" alt="Book Cover" style="height: 250px;" /></a> <br/> #10 Queue Problems | <a href="https://www.amazon.com/gp/product/B09ZWG6N58"><img src="https://github.com/AdiChat/author/assets/10634210/4747003b-2d39-4e61-a8fa-94653bb04d7e" alt="Book Cover" style="height: 250px;" /></a> <br/> #11 Backtracking Algorithms | |
 
+
+# Coding Interviews: Algorithm and Data Structure Proficiency
+(11 books series)
+
+_Best for in-depth study of specific Algorithm and Data Structure topics_
+
