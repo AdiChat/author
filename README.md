@@ -1,5 +1,5 @@
 # Day before Coding Interview series - DBCI
-(11 book series)
+(11 books series)
 
 _Best for quick revision to get into problem solving mindset a day before your coding interview_<br>
 Authors: Aditya Chatterjee, Ue Kiao
@@ -20,3 +20,13 @@ _Best for in-depth study of specific Algorithm and Data Structure topics_
 | <a href="https://www.amazon.com/gp/product/B094YJ1K13"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/1.jpg" alt="Book Cover" style="height: 250px;" /></a> | <a href="https://www.amazon.com/gp/product/B09VZRDHQS"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/2.jpg" alt="Book Cover" style="height: 250px;" /></a> | <a href="https://www.amazon.com/gp/product/B09PFYR7P6"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/3.jpg" alt="Book Cover" style="height: 250px;" /></a> | <a href="https://www.amazon.com/gp/product/B09FF18MFH"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/4.jpg" alt="Book Cover" style="height: 250px;" /></a> |
 | <a href="https://www.amazon.com/gp/product/B0B6WLP76J"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/5.jpg" alt="Book Cover" style="height: 250px;" /></a> | <a href="https://www.amazon.com/gp/product/B0B1YDYP4S"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/6.jpg" alt="Book Cover" style="height: 250px;" /></a> | <a href="https://www.amazon.com/gp/product/B0B46TRWJ6"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/7.jpg" alt="Book Cover" style="height: 250px;" /></a> | <a href="https://www.amazon.com/gp/product/B0B391MJ1S"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/8.jpg" alt="Book Cover" style="height: 250px;" /></a> |
 | <a href="https://www.amazon.com/gp/product/B09R4QN2PB"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/9.jpg" alt="Book Cover" style="height: 250px;" /></a> | <a href="https://www.amazon.com/gp/product/B08F2TDC7R"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/10.jpg" alt="Book Cover" style="height: 250px;" /></a> | <a href="https://www.amazon.com/gp/product/B0C87JQKQJ"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/11.jpg" alt="Book Cover" style="height: 250px;" /></a> | |
+
+# Kakbhushundi: C and C++ Programming Time Tested Mastery
+(2 books series)
+
+_Best for mastering C and C++ Programming Language_
+
+| Book 1 | Book 2 |
+|---|---|
+| <a href="https://www.amazon.com/gp/product/B0BVSXHK9Z"><img src="https://github.com/AdiChat/author/blob/main/cover/series3/1.jpg" alt="Book Cover" style="height: 250px;" /></a> | <a href="https://www.amazon.com/gp/product/B08MT9Y5S6"><img src="https://github.com/AdiChat/author/blob/main/cover/series3/2.jpg" alt="Book Cover" style="height: 250px;" /></a> |
+
