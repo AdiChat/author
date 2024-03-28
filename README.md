@@ -15,3 +15,6 @@ Authors: Aditya Chatterjee, Ue Kiao
 
 _Best for in-depth study of specific Algorithm and Data Structure topics_
 
+| Book N | Book N+1 | Book N+2 | Book N+3 |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---|---|
+| <a href="https://www.amazon.com/gp/product/B094YJ1K13"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/1.jpg" alt="Book Cover" style="height: 250px;" /></a> | <a href="https://www.amazon.com/gp/product/B09VZRDHQS"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/2.jpg" alt="Book Cover" style="height: 250px;" /></a> | <a href="https://www.amazon.com/gp/product/B09PFYR7P6"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/3.jpg" alt="Book Cover" style="height: 250px;" /></a> | <a href="https://www.amazon.com/gp/product/B09FF18MFH"><img src="https://github.com/AdiChat/author/blob/main/cover/series2/4.jpg" alt="Book Cover" style="height: 250px;" /></a> |
