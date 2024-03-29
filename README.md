@@ -30,3 +30,7 @@ _Best for mastering C and C++ Programming Language_
 |---|---|
 | <a href="https://www.amazon.com/gp/product/B0BVSXHK9Z"><img src="https://github.com/AdiChat/author/blob/main/cover/series3/1.jpg" alt="Book Cover" style="height: 250px;" /></a> | <a href="https://www.amazon.com/gp/product/B08MT9Y5S6"><img src="https://github.com/AdiChat/author/blob/main/cover/series3/2.jpg" alt="Book Cover" style="height: 250px;" /></a> |
 
+## `#`7daysOfAlgo
+
+(2 books series)
+
